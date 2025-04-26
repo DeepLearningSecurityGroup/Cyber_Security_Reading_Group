@@ -9,22 +9,15 @@ Each reading group session has its own dedicated folder. The structure is as fol
 ```text
 │
 ├── 2025-03-26_Backdoor_Attacks_in_LLM_Agents
-│   ├── slides.pdf
-│   └── papers/
-│       ├── BadAgent.pdf
-│       ├── AgentPoison.pdf
-│       └── BadChain.pdf
+│   └── slides.pdf
 │
 └── 2025-04-02_Defense_Strategies_for_Backdoors
-    ├── slides.pdf
-    └── papers/
-        ├── DefensePaper1.pdf
-        └── DefensePaper2.pdf
+    └── slides.pdf
+  
 ```
 
 - **Folder Naming Convention**: Use the format `YYYY-MM-DD_Topic_of_the_Session` for each session folder.
 - **Slides**: Slides from the presentation should be saved as `slides.pdf`.
-- **Papers**: All discussed papers should be placed inside a dedicated `papers` subdirectory.
 
 ## Contribution Guidelines
 
